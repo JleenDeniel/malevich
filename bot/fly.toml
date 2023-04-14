@@ -1,6 +1,6 @@
 # fly.toml file generated for art-expert on 2023-01-14T21:03:20+06:00
 
-app = "art-expert"
+app = "art-expert-267"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
