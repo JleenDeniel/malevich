@@ -1,4 +1,4 @@
-# art-expert-telegram-bot
+# malevich-telegram-bot
 
 Deploy something like https://t.me/AIArtExpertBot
 
